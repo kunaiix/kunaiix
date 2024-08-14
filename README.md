@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**xB-r/xB-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 About Me
 
 Hello! I'm a dedicated software developer, primarily focusing on Python and a rich array of technologies. My journey has led me through various landscapes, from web development to hardware tinkering.
